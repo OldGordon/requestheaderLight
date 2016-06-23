@@ -1,0 +1,18 @@
+{
+  "name": "fccrequestheader",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodejs ./bin/www"
+  },
+  "dependencies": {
+    "ejs": "~0.8.5",
+    "express": "^4.14.0"
+  },
+  "author": "Toni Julia",
+  "license": "ISC",
+  "engines": {
+    "node": "4.2.6",
+    "npm": "3.5.2"
+ }
+}
